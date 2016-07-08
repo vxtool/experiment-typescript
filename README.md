@@ -3,6 +3,13 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/experiment-solutions/experiment-mthriljs-meteorjs.svg?style=flat-square)](https://github.com/experiment-solutions/experiment-mthriljs-meteorjs/issues)
 
+
+Running
+
+```bash
+tsc example.ts
+```
+
 ## Contributing
 
 - Fork it!
