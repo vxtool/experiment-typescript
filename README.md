@@ -1,8 +1,11 @@
 # Experiment TypeScript
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/experiment-solutions/experiment-mthriljs-meteorjs.svg?style=flat-square)](https://github.com/experiment-solutions/experiment-mthriljs-meteorjs/issues)
-
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/experiment-typescript.svg)](https://github.com/org-victorinox/experiment-typescript/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/experiment-typescript.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/experiment-typescript.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/experiment-typescript.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/experiment-typescript/total.svg)
 
 Running
 
@@ -20,7 +23,7 @@ tsc example.ts
 
 ## Log
 
-Check [Releases](https://github.com/experiment-solutions/experiment-mthriljs-meteorjs/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/experiment-typescript/releases) for detailed changelog.
 
 ## License
 
